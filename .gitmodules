@@ -1,0 +1,3 @@
+[submodule "Calculator/build/cocoapods/publish/release"]
+	path = Calculator/build/cocoapods/publish/release
+	url = git@github.com:lucca-franca/calculatorPod.git
